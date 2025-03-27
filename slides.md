@@ -7,6 +7,7 @@ background: https://cover.sli.dev
 # some information about your slides (markdown enabled)
 title: 扑克牌新手如何在斗地主全国锦标赛中夺冠
 # apply unocss classes to the current slide
+titleTemplate: '扑克牌新手如何在斗地主全国锦标赛中夺冠----姚泽源'
 class: text-center
 # https://sli.dev/features/drawing
 drawings:
