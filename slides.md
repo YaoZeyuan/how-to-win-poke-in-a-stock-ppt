@@ -5,12 +5,7 @@ theme: seriph
 # like them? see https://unsplash.com/collections/94734566/slidev
 background: https://cover.sli.dev
 # some information about your slides (markdown enabled)
-title: Welcome to Slidev
-info: |
-  ## Slidev Starter Template
-  Presentation slides for developers.
-
-  Learn more at [Sli.dev](https://sli.dev)
+title: 扑克牌新手如何在斗地主全国锦标赛中夺冠
 # apply unocss classes to the current slide
 class: text-center
 # https://sli.dev/features/drawing
