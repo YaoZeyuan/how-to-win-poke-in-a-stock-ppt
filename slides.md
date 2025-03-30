@@ -17,9 +17,9 @@ transition: slide-left
 # enable MDC Syntax: https://sli.dev/features/mdc
 mdc: true
 ---
-# 我对投资理财的一点理解
+# 扑克牌新手如何在斗地主全国锦标赛中夺冠
 
-扑克牌新手如何在斗地主全国锦标赛中夺冠
+我对投资理财的一点理解
 
 姚泽源 2025年3月27日
 
