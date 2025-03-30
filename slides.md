@@ -3,7 +3,7 @@
 theme: seriph
 # random image from a curated Unsplash collection by Anthony
 # like them? see https://unsplash.com/collections/94734566/slidev
-background: https://cover.sli.dev
+background: https://mirror-4-web.bookflaneur.cn/https://tva1.sinaimg.cn/mw690/007Yq4pTly1hzyv61mx90j33344mokjm.jpg
 # some information about your slides (markdown enabled)
 title: 扑克牌新手如何在斗地主全国锦标赛夺冠
 # apply unocss classes to the current slide
